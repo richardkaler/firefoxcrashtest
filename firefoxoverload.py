@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+#This script must be paired with two others in this repo: eat memory and firefoxoverload.sh
+
 import subprocess
 
 print("""first overloading host with a RAM spike - then
